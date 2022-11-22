@@ -1,3 +1,4 @@
+![](https://github.com/dulgermuhammet/react-calculator/blob/989719e842bcc828dbe31ec3339794b03dad43e1/public/app.png?raw=true)
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
